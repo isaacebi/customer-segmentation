@@ -45,6 +45,16 @@ A Data Science project using Deep Learning via TensorFlow library for classifica
 
 ### Results
 
+* Model Architecture 
+
+![alt text](model.png)
+
+* TensorBoard
+
+![alt text](static/TensorBoard_2x64.png)
+
+Model seems to start overfit around 30th epoch
+
 * The classification results are as follows:
 
 ![alt text](static/classification_report.png)
@@ -58,5 +68,6 @@ A Data Science project using Deep Learning via TensorFlow library for classifica
 
 I would like to express my gratitude to Mr. Alex and Dr. Loo for the guidance throughout the training session and finally to SHRDC and the supporting staff for making this possible.
 * [Selangor Human Resource Development Centre](https://www.shrdc.org.my/)
+* [KUNAL GUPTA](https://www.kaggle.com/kunalgupta2616) for datasets
 
 PEACE OUT :love_you_gesture:
